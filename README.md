@@ -7,7 +7,7 @@ Decidí realizar este aporte a la comunidad española en general de FiveM ya que
 Cabe destacar que yo no soy ningún experto. Voy aprendiendo como cualquiera, ami manera, ami tiempo y ami nivel. 
 DESTACO: No soy programador, estoy aprendiendo al igual que muchos, no expereís maravillas en el código ya que para mi, a nivel personal poseo un nivel junior en este lenguaje en especifico, siempre me he manejado en otros lenguajes de programación web.
 
-· ¿Actualizaciones? ¿Compatibilidad? ¿Puedo aportar? ·
+· ¿Actualizaciones? ¿Compatibilidad? ¿Puedo aportar? ·<br>
 Actualmente el servidor se basará en su versión "GRATUITA", no, tranquilo no me refiero a que habrá una versión de pago si no que me basaré en el sistema "Normal" de FiveM, es decir 32 slots, para que el "gamemode" y/o "datapack" tenga el mejor rendimiento que FiveM presta. En fin, podrás arrancar un servidor totalmente funcional, configurable y estable en 32 slots completamente GRATIS y sin problemas.
 
 En temas de actualización, intentaré a medida de lo posible, mantener todos los scripts optimizados y en su última versión a la vez que el servidor en sí.
