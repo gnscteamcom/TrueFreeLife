@@ -1,4 +1,4 @@
-# TrueFreeLife
+# TRUEFREELIFE | FiveM | ESX
 **· EL PROYECTO ·**<br></br>
 TrueFreeLife no es más que un "datapack" y/o "gamemode" plug and play, es decir, listo para descargar, configurar iniciar y jugar.
 
@@ -13,6 +13,17 @@ Actualmente el servidor se basará en su versión "GRATUITA", no, tranquilo no m
 En temas de actualización, intentaré a medida de lo posible, mantener todos los scripts optimizados y en su última versión a la vez que el servidor en sí.
 <br></br>
 Actualmente no recibo ningún dinero, ni lo solicito ni pido. Lo que sí me gustaría es que si teneís ídeas, scripts o recomendaciones te unas a mi Discord Oficial y charlemos un poco todos! (( https://invite.gg/yisustm01 | Consigue tu rol en #roles ))
+<br></br>
+
+# SEGUIMIENTO Y APOYO
+Puedes seguir el proyecto (tutoriales, novedades etc...), en mis redes.<br></br>
+Discord: https://invite.gg/YisusTM01<br></br>
+Streamings: https://twitch.tv/yisustm_01<br></br>
+Vídeos y rebroadcasts: https://youtube.com/c/YisusTM_01<br></br>
+Twitter: https://twitter.com/YisusTM_01
+
+<br></br>
+No busco apoyo **económico**, pero sería muy agradecido si compartes el repositorio, das me gusta, me sigues en mis redes y demás! ;)
 <br></br>
 
 # LICENCIA
