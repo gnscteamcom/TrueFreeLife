@@ -1,5 +1,5 @@
 # TrueFreeLife
-**· EL PROYECTO ·**
+**· EL PROYECTO ·**<br></br>
 TrueFreeLife no es más que un "datapack" y/o "gamemode" plug and play, es decir, listo para descargar, configurar iniciar y jugar.
 
 **· ¿Por qué? ·**<br></br>
