@@ -2,7 +2,7 @@
 · EL PROYECTO ·
 TrueFreeLife no es más que un "datapack" y/o "gamemode" plug and play, es decir, listo para descargar, configurar iniciar y jugar.
 
-· ¿Por qué? ·
+· ¿Por qué? ·<br>
 Decidí realizar este aporte a la comunidad española en general de FiveM ya que hay muchos jóvenes y no jóvenes a los que les gustan estos temas y no saben como empezar, por ello, decidí a realizar este proyecto pero no solo realizarlo si no explicar en cada momento que se hace y que tocar y entender el máximo de código posible.
 Cabe destacar que yo no soy ningún experto. Voy aprendiendo como cualquiera, ami manera, ami tiempo y ami nivel. 
 DESTACO: No soy programador, estoy aprendiendo al igual que muchos, no expereís maravillas en el código ya que para mi, a nivel personal poseo un nivel junior en este lenguaje en especifico, siempre me he manejado en otros lenguajes de programación web.
