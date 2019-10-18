@@ -28,5 +28,5 @@ No busco apoyo **económico**, pero sería muy agradecido si compartes el reposi
 
 # LICENCIA
 **Se admite compartir este repositorio, nunca resubir contenido ni comercializarlo (venderlo)<br></br>
-Este repositorio trabajo/funciona bajo: Attribution-NonCommercial 4.0 International
+Este repositorio trabajo/funciona bajo: Attribution-NonCommercial 4.0 International<br></br>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />**
