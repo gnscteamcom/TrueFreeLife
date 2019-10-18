@@ -1,5 +1,5 @@
 # TrueFreeLife
-Servidor FiveM - ESX en ESPAÑOL, Actualizado, Mantenido y Funcionando. Uso: RolePlay
+Servidor FiveM - ESX en ESPAÑOL, Actualizado, Mantenido y Funcionando. Finalidad: RolePlay
 
 # Información
 Base | DataPack en Español de Servidor FiveM ESX actualmente mantenido por: https://twitch.tv/yisustm_01
