@@ -12,7 +12,7 @@ Actualmente el servidor se basará en su versión "GRATUITA", no, tranquilo no m
 <br></br>
 En temas de actualización, intentaré a medida de lo posible, mantener todos los scripts optimizados y en su última versión a la vez que el servidor en sí.
 <br></br>
-Actualmente no recibo ningún dinero, ni lo solicito ni pido. Lo que sí me gustaría es que si teneís ídeas, scripts o recomendaciones te unas a mi Discord Oficial y charlemos un poco todos! (( https://invite.gg/yisustm01 | Consigue tu rol en #roles ))
+Actualmente no recibo ningún dinero, ni lo solicito ni pido. Lo que sí me gustaría es que si teneís ídeas, scripts o recomendaciones te unas a mi Discord Oficial y charlemos un poco todos! (( https://invite.gg/yisustm01 | Consigue tu rol en #información ))
 <br></br>
 
 # SEGUIMIENTO Y APOYO
