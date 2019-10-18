@@ -15,10 +15,7 @@ En temas de actualización, intentaré a medida de lo posible, mantener todos lo
 Actualmente no recibo ningún dinero, ni lo solicito ni pido. Lo que sí me gustaría es que si teneís ídeas, scripts o recomendaciones te unas a mi Discord Oficial y charlemos un poco todos! (( https://invite.gg/yisustm01 | Consigue tu rol en #roles ))
 <br></br>
 
-# Licencia y Distribución.
+# LICENCIA
 Se admite compartir este repositorio, nunca resubir contenido ni comercializarlo (venderlo)
-
-++
-Attribution-NonCommercial 4.0 International
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
-++
+Este repositorio trabajo/funciona bajo: Attribution-NonCommercial 4.0 International
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
