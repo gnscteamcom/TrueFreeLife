@@ -8,18 +8,12 @@ Cabe destacar que yo no soy ningún experto. Voy aprendiendo como cualquiera, am
 DESTACO: No soy programador, estoy aprendiendo al igual que muchos, no expereís maravillas en el código ya que para mi, a nivel personal poseo un nivel junior en este lenguaje en especifico, siempre me he manejado en otros lenguajes de programación web.
 <br></br>
 **· ¿Actualizaciones? ¿Compatibilidad? ¿Puedo aportar? ·**<br></br>
-Actualmente el servidor se basará en su versión "GRATUITA", no, tranquilo no me refiero a que habrá una versión de pago si no que me basaré en el sistema "Normal" de FiveM, es decir 32 slots, para que el "gamemode" y/o "datapack" tenga el mejor rendimiento que FiveM presta. En fin, podrás arrancar un servidor totalmente funcional, configurable y estable en 32 slots completamente GRATIS y sin problemas.
-<br></br>
-En temas de actualización, intentaré a medida de lo posible, mantener todos los scripts optimizados y en su última versión a la vez que el servidor en sí.
-<br></br>
-Actualmente no recibo ningún dinero, ni lo solicito ni pido. Lo que sí me gustaría es que si teneís ídeas, scripts o recomendaciones te unas a mi Discord Oficial y charlemos un poco todos! (( https://invite.gg/yisustm01 | Consigue tu rol en #información ))
+El proyecto se queda aquí. No hay más, con la última versión del es_extended al día de la última actualización del es_extended (32 slots).
 <br></br>
 
 # SEGUIMIENTO Y APOYO
 Puedes seguir el proyecto (tutoriales, novedades etc...), en mis redes.<br></br>
-Discord: https://invite.gg/YisusTM01<br></br>
 Streamings: https://twitch.tv/yisustm_01<br></br>
-Vídeos y rebroadcasts: https://youtube.com/c/YisusTM_01<br></br>
 Twitter: https://twitter.com/YisusTM_01
 
 <br></br>
